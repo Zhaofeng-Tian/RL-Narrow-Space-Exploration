@@ -9,4 +9,4 @@ More details may be published later.
 
 ## Reference
 1. [ZebraT Simulator](https://github.com/Zhaofeng-Tian/ZebraT-Simulator)
-2. [RL with Phil] (https://www.youtube.com/c/MachineLearningwithPhil)
+2. [RL with Phil](https://www.youtube.com/c/MachineLearningwithPhil)
