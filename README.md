@@ -1,5 +1,5 @@
 # "Reinforcement Learning for Self-exploration in Narrow Spaces"
-by Zhaofeng Tian | [Paper Website](https://sites.google.com/view/rl4exploration) | [Video](https://youtu.be/7TB-1-NkQPw)
+by Zhaofeng Tian | [Website](https://sites.google.com/view/rl4exploration) | [Video](https://youtu.be/7TB-1-NkQPw) | [Paper](https://arxiv.org/pdf/2209.08349.pdf)
 
 ## RL Algorithms
 This repo includes five RL algorithms that benchmarked in the paper. 
