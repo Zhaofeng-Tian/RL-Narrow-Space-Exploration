@@ -1,5 +1,5 @@
 # "Reinforcement Learning for Self-exploration in Narrow Spaces"
-by Zhaofeng Tian | [Website](https://sites.google.com/view/rl4exploration) | [Video](https://youtu.be/7TB-1-NkQPw) | [Paper](https://arxiv.org/pdf/2209.08349.pdf)
+by Zhaofeng Tian | [Website](https://sites.google.com/view/rl4exploration) 
 
  <img src="./whole.png" width = "80%" height = "80%" alt="demo" align=center />
 
